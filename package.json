@@ -1,0 +1,21 @@
+{
+  "name": "electron-analyzer",
+  "version": "1.0.0",
+  "description": "A desktop application for analyzing documents using the Gemini API.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Gemini",
+    "API",
+    "Analysis"
+  ],
+  "author": "Aura Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^28.2.3"
+  }
+}
